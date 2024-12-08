@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Heal_Tech</string>
+    <string name="app_name">HealMate</string>
     <string name="weight">Kg</string>
     <string name="heightInches">Inch</string>
     <string name="heightFeet">Feet</string>
