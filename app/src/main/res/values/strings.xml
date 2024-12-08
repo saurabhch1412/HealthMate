@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Heal_Tech</string>
+    <string name="weight">Kg</string>
+    <string name="heightInches">Inch</string>
+    <string name="heightFeet">Feet</string>
+    <string name="BMI">Calculate BMI</string>
+    <string name="Heading">Image Classify</string>
+    <string name="captureText">Capture Image</string>
+    <string name="selectText">Select Image</string>
+    <string name="predictionText">Click ME</string>
+    <string name="Result">Result :</string>
+</resources>

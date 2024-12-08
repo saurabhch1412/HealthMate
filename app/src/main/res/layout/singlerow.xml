@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    android:elevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/teal_700"
+        android:padding="15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nameText_row"
+            android:text="demo text"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#ffff"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/hospital_row"
+            android:text="demo text"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:padding="5dp"
+            android:textColor="#ffff"
+            android:layout_below="@id/nameText_row"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dotortype_row"
+            android:text="demo text"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#ffff"
+            android:layout_below="@id/hospital_row"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mobileno_row"
+            android:layout_below="@id/dotortype_row"
+            android:text="demo text"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:padding="5dp"
+            android:textColor="#ffff"
+            android:layout_marginLeft="10dp"/>
+
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

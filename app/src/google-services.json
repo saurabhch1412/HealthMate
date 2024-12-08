@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365134426284",
+    "project_id": "heal-tech",
+    "storage_bucket": "heal-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365134426284:android:18b778406a0ea75ecfaf09",
+        "android_client_info": {
+          "package_name": "com.example.heal_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365134426284-6kdai1949tgvkmd4slpluob0avuodlu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzJuURvoSr62oZHYIYoEinxI9QujGohQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365134426284-6kdai1949tgvkmd4slpluob0avuodlu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
