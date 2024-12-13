@@ -39,5 +39,3 @@ Register or log in to your account using Google Firebase Authentication Use the 
 Contributing If you would like to contribute to this project, please follow these steps:
 
 Fork this repository Create a new branch for your feature or bug fix Commit your changes to your branch Create a pull request from your branch to this repository's main branch
-
-Contact If you have any questions or issues, please contact us at Shivamanand0024@gmail.com.
